@@ -5,7 +5,7 @@ categories: work
 permalink: "kelly-girls"
 ---
 
-<iframe width="560" height="315" bottom-margin="2em" src="https://www.youtube.com/embed/5hIAPYm_NiI?si=cmOLqmWqhUfUA2WR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5hIAPYm_NiI?si=cmOLqmWqhUfUA2WR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Since the 1960s Kelly Girls has been synonymous with female temporary office workers. Originally a groundbreaking temporary employment service, the name has expanded to a generic, describing all temporary workers, including those who are neither female nor employees of Kelly Services.
 
