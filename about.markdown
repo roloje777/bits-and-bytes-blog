@@ -4,15 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![João Emanuel Monica Rolo](../assets/me.png)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+"Bits and Bytes" is all about interesting bits of information that
+I find all over the place, such as in books, the internet and friends
+and family that share over social media platforms etc.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Over some extended time I build a repository of all these
+"bits and bytes" and shared over various social platforms with
+family and friends.
+Now I decided to create a blog on the web, where anyone can access
+this, myself included.
 
-
-[jekyll-organization]: https://github.com/jekyll
+On a slightly personal note, I recall people saying that I always
+was curious, as I'm sure you are, them saying " there he goes getting
+the encyclopedia to prove his point 😂"
