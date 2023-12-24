@@ -5,8 +5,8 @@ categories: experimental usa
 permalink: "tesla-model-x"
 ---
 
-<div style="position:relative;padding-bottom:56.25%;padding-top:35ps;height:0;overflow:hidden">
-    <iframe style="position:absolute;top:0;left:0;width:100%;height:100%"  src="https://www.youtube.com/embed/FlQuhF9wmuI?si=JeYH6FqLyV6uzRmX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+<div style="position:relative;padding-bottom:56.25%;padding-top:35px;height:0;overflow:hidden">
+    <iframe style="position:absolute;top:0;left:0;width:100%;height:100%"  src="https://www.youtube.com/embed/FlQuhF9wmuI?si=JeYH6FqLyV6uzRmX" title="YouTube video player"  allowfullscreen>
     </iframe>
 </div>
 
